@@ -1,1 +1,1 @@
-echo "Added in elementary OS"
+echo "Added in freebsd"
